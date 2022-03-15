@@ -1,8 +1,9 @@
 <h1><u>Hi there 👋, I am Borja López</u></h1>
 
 - I am currently working as a Senior SRE at Intelygenz.
-- I’m currently learning data analyst and scientist to become a MLOps/MLE and improving my code skills.
-- I’m looking to collaborate on data projects.
+- I’m currently learning Big Data and Machine Learning to become a MLOps/MLE 
+- Always improving my tech skills.
+- I’m open to collaborate on open source big data projects.
 
 
 <h3>Technologies:</h3>
