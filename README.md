@@ -1,5 +1,7 @@
 <h1><u>Hi there 👋, I am Borja López</u></h1>
 
+![](https://komarev.com/ghpvc/?username=blopezpi&label=PROFILE+VIEWS&style=for-the-badge)
+
 - I am currently working as a Senior SRE at Intelygenz.
 - I’m currently learning Big Data and Machine Learning to become a MLOps/MLE 
 - Always improving my tech skills.
