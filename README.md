@@ -31,7 +31,7 @@
 <h3>Stats</h3>
 
 <a href="https://github.com/blopezpi/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blopezpi&langs_count=8&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blopezpi&langs_count=8" />
 </a>
 <a href="https://github.com/blopezpi/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=blopezpi&show_icons=true&theme=dark" />
