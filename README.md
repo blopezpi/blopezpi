@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=blopezpi&label=PROFILE+VIEWS&style=for-the-badge)
 
-- I am currently working as a Senior SRE at Intelygenz.
-- I’m currently learning Big Data and Machine Learning to become a MLOps/MLE 
+- I am currently working as a Senior MLOps at Intellias.
+- I’m currently learning Big Data, Machine Learning and Generative AI.
 - Always improving my tech skills.
-- I’m open to collaborate on open source big data projects.
+- I’m open to collaborate on open source big data projects and AI .
 
 
 <h3>Technologies:</h3>
